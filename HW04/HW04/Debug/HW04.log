@@ -1,0 +1,19 @@
+﻿  Airport.c
+  AirportManager.c
+c:\users\שמעון\desktop\hw04\hw04\airportmanager.c(152): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'FILE *'
+c:\users\שמעון\desktop\hw04\hw04\airportmanager.c(152): warning C4133: 'function': incompatible types - from 'char [25]' to 'FILE *'
+c:\users\שמעון\desktop\hw04\hw04\airportmanager.c(153): warning C4020: 'loadAirportFromFile': too many actual parameters
+  Company.c
+c:\users\שמעון\desktop\hw04\hw04\company.c(41): warning C4047: 'function': 'BYTE *' differs in levels of indirection from 'BYTE (*)[10]'
+c:\users\שמעון\desktop\hw04\hw04\company.c(41): warning C4024: 'addinfo': different types for formal and actual parameter 5
+c:\users\שמעון\desktop\hw04\hw04\company.c(62): warning C4098: 'addinfo': 'void' function returning a value
+c:\users\שמעון\desktop\hw04\hw04\company.c(68): warning C4098: 'addinfo': 'void' function returning a value
+c:\users\שמעון\desktop\hw04\hw04\company.c(75): warning C4098: 'addinfo': 'void' function returning a value
+  Date.c
+  Flight.c
+  General.c
+  GeneralList.c
+  fileHelper.c
+  main.c
+  Generating Code...
+  HW04.vcxproj -> C:\Users\שמעון\Desktop\HW04\Debug\HW04.exe
